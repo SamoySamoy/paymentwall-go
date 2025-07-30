@@ -1,3 +1,3 @@
-module github.com/paymentwall/paymentwall-go
+module github.com/SamoySamoy/paymentwall-go
 
 go 1.18
