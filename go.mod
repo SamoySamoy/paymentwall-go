@@ -1,3 +1,3 @@
 module github.com/SamoySamoy/paymentwall-go
 
-go 1.18
+go 1.24.5
